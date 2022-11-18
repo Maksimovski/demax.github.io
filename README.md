@@ -1,5 +1,3 @@
-remote_theme: pages-themes/midnight@v0.2.0
-
 <h1 align="center"> Project Title </h1> <br>
 
 <p align="center">
